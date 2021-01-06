@@ -45,6 +45,5 @@ I'm currently working on small projects which i build microservices using nodeJs
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoniKarta&hide=C%23%0A,html&theme=dark)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoniKarta&repo=BeautifyAlertDialog&theme=dark)](https://github.com/JoniKarta/BeautifyAlertDialog)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoniKarta&repo=ShoppingCatalogService&theme=dark)](https://github.com/JoniKarta/ShoppingCatalogService)
 
