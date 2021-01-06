@@ -14,6 +14,7 @@ I'm currently working on small projects which i build microservices using nodeJs
 - ⚡ Fun fact: ...
 -->
 
+
 ## 🔧 Technologies & Tools
 
 <div>
@@ -37,6 +38,8 @@ I'm currently working on small projects which i build microservices using nodeJs
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="Bash" width="40" height="40" />
 </div>
+
+## &#x1f4c8; GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=JoniKarta&show_icons=true&theme=dark&line_height=33)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoniKarta&hide=C%23%0A,html&theme=dark)
