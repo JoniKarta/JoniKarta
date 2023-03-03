@@ -3,7 +3,7 @@
 <!-- ![](https://github.com/JoniKarta/Kader/blob/master/Images/logo.jpg) -->
 ### Hi there 👋  
 
-I'm currently working on small projects which i build microservices using nodeJs and deepens the knowledge in spring boot using cloud native java book. 
+I'm currently working on small projects on c/c++ and python which mainly from the vechile industry. 
 
 <!--
 - 👯 I’m looking to collaborate on ...
