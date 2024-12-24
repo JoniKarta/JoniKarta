@@ -42,7 +42,6 @@ I'm currently working on small projects on c/c++ and python which mainly from th
 ## &#x1f4c8; GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=JoniKarta&show_icons=true&theme=dark&line_height=33)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoniKarta&hide=C%23%0A,html&theme=dark)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoniKarta&repo=BeautifyAlertDialog&theme=dark)](https://github.com/JoniKarta/BeautifyAlertDialog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoniKarta&repo=ShoppingCatalogService&theme=dark)](https://github.com/JoniKarta/ShoppingCatalogService)
